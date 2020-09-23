@@ -1,0 +1,4 @@
+{
+  message: "User successfully deleted",
+  current_user: current_user
+}
